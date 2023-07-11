@@ -16,6 +16,8 @@ rankings of urls per keyword:
 
 Regex to find the top domains over each keyword (top websites for our keywords)
 
+Average of ranks for fomains is their relevance score 
+
 """
 
 def open_db(db):
@@ -47,13 +49,32 @@ def keyword_rankings(conn, cur):
     #plt.pie([x*100 for x in pop_scores_dict.values()],labels=[x for x in pop_scores_dict.keys()],autopct='%0.01f') 
     return 0
 
-def competitor_sites(conn, cur):
+def competitor_site_urls(conn, cur):
     cur.execute(
-        "SELECT keyword_id, url_id, rank FROM SearchResults"
+        "SELECT SearchResults.keyword_id, SearchResults.rank, urls.url FROM SearchResults JOIN urls ON SearchResults.url_id = urls.id"
     )
     serps = cur.fetchall()
-    
+    ranks_dict = {}
+    for item in serps:
+        if item[0] in ranks_dict:
+            ranks_dict[item[0]][item[1]] = item[2]
+        else:
+            ranks_dict[item[0]] = {}
+            ranks_dict[item[0]][item[1]] = item[2]
+    with open('ranked_urls.txt', 'a') as f:
+        for item2 in ranks_dict.keys():
+            cur.execute(
+                "SELECT keyword FROM keywords WHERE id = ?", (item2, )
+            )
+            keeword = cur.fetchall()[0][0]
+            f.write('\n\n\n' + keeword +  ": \n__________________________________________________________\n")
+            f.write("Rank:   URL:\n")
+            for item3 in ranks_dict[item2]:
+                f.write(str(item3) + "       " + ranks_dict[item2][item3] + "\n")                         
+
+    return 0
 
 if __name__ == '__main__':
     conn, cur = open_db('Keywords.db')
     keyword_rankings(conn, cur)
+    competitor_site_urls(conn, cur)
