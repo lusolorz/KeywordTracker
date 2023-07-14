@@ -154,3 +154,447 @@ Rank:   URL:
 8       https://www.nytimes.com/2019/06/12/smarter-living/how-to-protect-your-dna-data.html
 9       https://www.mlo-online.com/molecular/dna-rna/article/13017097/dry-storage-methods-for-dna-samples
 10      https://dnatestingchoice.com/en-us/dna-storage
+
+
+
+Miami biobank: 
+__________________________________________________________
+Rank:   URL:
+1       https://med.miami.edu/programs/brain-endowment-bank
+2       https://med.miami.edu/centers-and-institutes/hihg/research-centers/center-for-genome-technology/biorepository-core
+3       https://dss.niagads.org/cohorts/university-of-miami-brain-bank-mbb/
+4       https://umiamihealth.org/en/sylvester-comprehensive-cancer-center/research/research-resources/shared-resources/biospecimen-shared-resource
+5       https://www.nicklauschildrens.org/medical-services/personalized-medicine-initiative-(pmi)/biobank-and-tissue-repository
+6       https://www.nicklauschildrens.org/medical-services/personalized-medicine-initiative-(pmi)/biobank-and-tissue-repository/meet-the-team
+7       https://neurobiobank.nih.gov/
+8       https://neurobiobank.nih.gov/about/
+9       https://cancer.baptisthealth.net/miami-cancer-institute/cancer-care/treatments-and-services/center-for-genomic-medicine/biospecimen-repository-facility
+10       https://www.galatea.bio/
+
+
+
+Biobank analyzation process: 
+__________________________________________________________
+Rank:   URL:
+1       https://rd-connect.eu/what-we-do/biosamples-data/biobank-assessment-process/
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8275637/
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6777713/
+4       https://www.vet.cornell.edu/departments/centers/cornell-veterinary-biobank/about-biobank/biobank-process
+5       https://healthtalk.org/biobanking/what-is-biobanking-and-why-is-it-important
+6       https://www.sciencedirect.com/science/article/pii/S0010482520305114
+7       https://academic.oup.com/clinchem/article/64/8/1158/5608841
+8       https://www.frontiersin.org/articles/10.3389/fgene.2022.882611/full
+9       https://link.springer.com/article/10.1007/s00428-021-03151-0
+10       https://dnanexus.gitbook.io/uk-biobank-rap/science-corner/guide-to-analyzing-large-sample-sets
+
+
+
+Importance of biobanks: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.labtoo.com/en/blog/the-importance-of-biobanks-in-research-and-development#:~:text=Biobanks%20are%20fundamental%20to%20harnessing,for%20scientific%20investigation%20and%20R%26D.
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7275812/
+3       https://pubmed.ncbi.nlm.nih.gov/20680423/
+4       https://www.biobanking.com/the-importance-of-biobanking-in-modern-medical-research/
+5       https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-019-1922-3
+6       https://www.reumatologiaclinica.org/en-biobanks-their-importance-in-clinical-articulo-S2173574314001038
+7       https://www.forbes.com/sites/cognitiveworld/2019/08/12/biobanking-is-changing-the-world/
+8       https://www.sciencedirect.com/science/article/pii/B9780128018996000024
+9       https://www.news-medical.net/health/What-Role-do-Biobanks-Play-in-Cancer-Research.aspx
+10       https://healthtalk.org/biobanking/what-is-biobanking-and-why-is-it-important
+
+
+
+Types of Biobanks: 
+__________________________________________________________
+Rank:   URL:
+1       https://link.springer.com/chapter/10.1007/978-3-030-87637-1_3
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894636/
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8275637/
+4       https://healthtalk.org/biobanking/types-of-biobanking-sample
+5       https://www.sciencedirect.com/topics/nursing-and-health-professions/biobank
+6       https://www.mayo.edu/research/documents/introduction-pamphlet-16kb-pdf/DOC-10027365
+7       https://blog.labtag.com/the-history-and-function-of-biobanks/
+8       https://www.forbes.com/sites/cognitiveworld/2019/08/12/biobanking-is-changing-the-world/
+9       https://www.biocompare.com/Editorial-Articles/518242-National-Biobanks-Understanding-All-of-Us/
+10       https://www.mdpi.com/2673-6284/9/4/23
+
+
+
+Genetic Research: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.biocompare.com/Editorial-Articles/518242-National-Biobanks-Understanding-All-of-Us/
+2       https://www.mdpi.com/2673-6284/9/4/23
+3       https://www.nature.com/subjects/genetics-research
+4       https://research.virginia.edu/irb-hsr/genetic-research
+5       https://nigms.nih.gov/education/fact-sheets/Pages/genetics.aspx
+6       https://www.hopkinsmedicine.org/institute-genetic-medicine/research/
+7       https://www.genomeweb.com/genetic-research
+8       https://www.cdc.gov/genomics/gtesting/genetic_testing.htm
+9       https://www.cdc.gov/genomics/about/basics.htm
+
+
+
+Biobank security: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.mayo.edu/research/documents/biobank-privacy-pamphletpdf/DOC-10027679
+2       https://link.springer.com/article/10.1007/s11948-021-00305-w
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8213525/
+4       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8666836/
+5       https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0494-5
+6       https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-022-00829-1
+7       https://www.sciencedirect.com/science/article/pii/S259005362100063X
+8       https://www.ukbiobank.ac.uk/explore-your-participation/basis-of-your-participation
+9       https://www.frontiersin.org/articles/10.3389/fgene.2022.719317/full
+10       https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/guidance+document+for+human+research+biobanks+and+associated+data
+
+
+
+Hispanic representation in Genetic Research: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8554883/
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9722474/
+3       https://elifesciences.org/articles/56029
+4       https://www.pnas.org/doi/10.1073/pnas.0914618107
+5       https://www.fredhutch.org/en/news/center-news/2019/06/lack-diversity-genetic-research-problem.html
+6       https://sph.unc.edu/sph-news/studying-the-genetics-of-heart-attacks-and-strokes-in-hispanic-populations/
+7       https://www.frontiersin.org/articles/10.3389/fgene.2020.00120/full
+8       https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002640
+9       https://www.nbcnews.com/news/latino/alzheimers-latinos-puerto-ricans-risk-genetic-research-rcna59670
+10       https://www.nature.com/articles/538161a
+
+
+
+Risks of DNA sampling: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.mayoclinic.org/tests-procedures/genetic-testing/about/pac-20384827#:~:text=Generally%20genetic%20tests%20have%20little,and%20financial%20risks%20as%20well.
+2       https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html
+3       https://medlineplus.gov/genetics/understanding/dtcgenetictesting/dtcrisksbenefits/
+4       https://medlineplus.gov/genetics/understanding/testing/riskslimitations/
+5       https://my.clevelandclinic.org/health/diagnostics/23065-dna-test--genetic-testing
+6       https://www.ncbi.nlm.nih.gov/books/NBK236044/
+7       https://www.comparitech.com/blog/information-security/dna-testing-kits-privacy-risks/
+8       https://www.health.harvard.edu/blog/tempted-to-have-genetic-testing-first-ask-why-202108172571
+9       https://theconversation.com/at-home-dna-tests-just-arent-that-reliable-and-the-risks-may-outweigh-the-benefits-194349
+10       https://internethealthreport.org/2019/23-reasons-not-to-reveal-your-dna/
+
+
+
+Genebanks: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.genebanks.org/genebanks/
+2       https://www.cgiar.org/initiative/genebanks/
+3       https://en.wikipedia.org/wiki/Gene_bank
+4       https://www.croptrust.org/news-events/news/what-is-a-genebank/
+5       https://www.frontiersin.org/articles/10.3389/fpls.2018.01794/full
+6       https://www.ncbi.nlm.nih.gov/genbank/
+7       https://www.nature.com/articles/s41588-019-0443-6
+8       https://alliancebioversityciat.org/services/genebanks
+9       https://www.fao.org/agriculture/crops/thematic-sitemap/theme/seeds-pgr/gbs/en/
+
+
+
+DNA sample storage: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.azenta.com/blog/how-are-genomic-dna-samples-collected-stored#:~:text=DNA%20material%20used%20in%20a,nucleic%20acids%20in%20the%20DNA.
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4461180/
+3       https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/handling-dna/storage-of-dna
+4       https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/handling-dna/sample-storage-prior-to-extraction-of-genomic-dna
+5       https://www.nature.com/articles/s41467-021-21587-5
+6       https://www.colorado.edu/ecenter/sites/default/files/attached-files/seracare_stability_of_genomic_dna_at_various_storage_conditions_isber2009.pdf
+7       https://www.news-medical.net/life-sciences/How-to-Store-DNA.aspx
+8       https://www.securigene.com/dna-banking-preservation/faq/
+9       https://www.nytimes.com/2019/06/12/smarter-living/how-to-protect-your-dna-data.html
+10       https://www.mlo-online.com/molecular/dna-rna/article/13017097/dry-storage-methods-for-dna-samples
+
+
+
+Who would have access to my DNA?: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.axios.com/2019/02/25/dna-test-results-privacy-genetic-data-sharing#:~:text=Genetic%20testing%20companies%20that%20trace,drug%20makers%20and%20app%20developers.
+2       https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html
+3       https://www.ajc.com/news/national/can-police-legally-obtain-your-dna-from-23andme-ancestry/8eZ24WN7VisoQiHAFbcmjP/
+4       https://www.americanbar.org/groups/judicial/publications/judges_journal/2020/spring/if-you-think-your-dna-anonymous-think-again/
+5       https://www.theguardian.com/commentisfree/2019/nov/09/when-governments-have-access-to-dna-databases-youre-right-to-be-scared
+6       https://www.ancestry.com/c/legal/privacyforancestrydnatesting
+7       https://www.wired.com/2015/01/who-should-have-access-to-your-dna/
+8       https://legaljournal.princeton.edu/its-not-just-me-its-also-you-how-shared-dna-complicates-consent/
+9       https://www.nbcnews.com/health/health-news/what-you-re-giving-away-those-home-dna-tests-n824776
+10       https://www.future-science.com/doi/10.2144/btn-2021-0059
+
+
+
+What is a biobank?: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.mayo.edu/research/documents/introduction-pamphlet-16kb-pdf/DOC-10027365
+2       https://healthtalk.org/biobanking/what-is-biobanking-and-why-is-it-important
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8275637/
+4       https://www.sciencedirect.com/topics/nursing-and-health-professions/biobank
+5       https://en.wikipedia.org/wiki/Biobank
+6       https://www.massgeneralbrigham.org/en/about/newsroom/articles/what-is-biobanking
+7       https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-019-1922-3
+8       https://www.rainn.org/articles/importance-dna-sexual-assault-cases
+9       https://www.ojp.gov/pdffiles1/nij/bc000657.pdf
+10       https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank
+
+
+
+Why would somebody need my DNA?: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.massgeneralbrigham.org/en/about/newsroom/articles/what-is-biobanking
+2       https://communitylaw.org.nz/community-law-manual/chapter-31-police-powers/dna-samples-when-you-have-to-give-a-sample/
+3       https://www.rainn.org/articles/importance-dna-sexual-assault-cases
+4       https://www.ojp.gov/pdffiles1/nij/bc000657.pdf
+5       https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank
+6       https://www.aclu.org/news/privacy-technology/police-want-your-dna-prove-youre-innocent-do-you
+7       https://www.justice.gov/archives/ag/advancing-justice-through-dna-technology-using-dna-solve-crimes
+8       https://www.americanbar.org/groups/judicial/publications/judges_journal/2020/spring/if-you-think-your-dna-anonymous-think-again/
+9       https://my.clevelandclinic.org/health/diagnostics/23065-dna-test--genetic-testing
+10       https://www.ncjrs.gov/nij/DNAbro/evi.html
+
+
+
+pharmacogenetic testing: 
+__________________________________________________________
+Rank:   URL:
+1       https://medlineplus.gov/lab-tests/pharmacogenetic-tests/#:~:text=Pharmacogenetic%20testing%20provides%20information%20about,a%20type%20of%20precision%20medicine.
+2       https://www.ncjrs.gov/nij/DNAbro/evi.html
+3       https://www.cdc.gov/genomics/disease/pharma.htm
+4       https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2021/the-problem-with-pharmacogenetic-testing.html
+5       https://genomind.com/solutions/pharmacogenetic-testing/
+6       https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Pharmacogenetic_Testing-128.aspx
+7       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3765014/
+8       https://www.questdiagnostics.com/healthcare-professionals/about-our-tests/genetics/pharmacogenomics
+9       https://kidshealth.org/en/parents/pharmacogenomics.html
+10       https://www.23andme.com/test-info/pharmacogenetics/
+
+
+
+Miami biobank: 
+__________________________________________________________
+Rank:   URL:
+1       https://med.miami.edu/programs/brain-endowment-bank
+2       https://med.miami.edu/centers-and-institutes/hihg/research-centers/center-for-genome-technology/biorepository-core
+3       https://dss.niagads.org/cohorts/university-of-miami-brain-bank-mbb/
+4       https://umiamihealth.org/en/sylvester-comprehensive-cancer-center/research/research-resources/shared-resources/biospecimen-shared-resource
+5       https://www.nicklauschildrens.org/medical-services/personalized-medicine-initiative-(pmi)/biobank-and-tissue-repository
+6       https://www.nicklauschildrens.org/medical-services/personalized-medicine-initiative-(pmi)/biobank-and-tissue-repository/meet-the-team
+7       https://neurobiobank.nih.gov/
+8       https://neurobiobank.nih.gov/about/
+9       https://cancer.baptisthealth.net/miami-cancer-institute/cancer-care/treatments-and-services/center-for-genomic-medicine/biospecimen-repository-facility
+10       https://www.galatea.bio/
+
+
+
+Biobank analyzation process: 
+__________________________________________________________
+Rank:   URL:
+1       https://rd-connect.eu/what-we-do/biosamples-data/biobank-assessment-process/
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8275637/
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6777713/
+4       https://www.vet.cornell.edu/departments/centers/cornell-veterinary-biobank/about-biobank/biobank-process
+5       https://healthtalk.org/biobanking/what-is-biobanking-and-why-is-it-important
+6       https://www.sciencedirect.com/science/article/pii/S0010482520305114
+7       https://academic.oup.com/clinchem/article/64/8/1158/5608841
+8       https://www.frontiersin.org/articles/10.3389/fgene.2022.882611/full
+9       https://link.springer.com/article/10.1007/s00428-021-03151-0
+10       https://dnanexus.gitbook.io/uk-biobank-rap/science-corner/guide-to-analyzing-large-sample-sets
+
+
+
+Importance of biobanks: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.labtoo.com/en/blog/the-importance-of-biobanks-in-research-and-development#:~:text=Biobanks%20are%20fundamental%20to%20harnessing,for%20scientific%20investigation%20and%20R%26D.
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7275812/
+3       https://pubmed.ncbi.nlm.nih.gov/20680423/
+4       https://www.biobanking.com/the-importance-of-biobanking-in-modern-medical-research/
+5       https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-019-1922-3
+6       https://www.reumatologiaclinica.org/en-biobanks-their-importance-in-clinical-articulo-S2173574314001038
+7       https://www.forbes.com/sites/cognitiveworld/2019/08/12/biobanking-is-changing-the-world/
+8       https://www.sciencedirect.com/science/article/pii/B9780128018996000024
+9       https://www.news-medical.net/health/What-Role-do-Biobanks-Play-in-Cancer-Research.aspx
+10       https://healthtalk.org/biobanking/what-is-biobanking-and-why-is-it-important
+
+
+
+Types of Biobanks: 
+__________________________________________________________
+Rank:   URL:
+1       https://link.springer.com/chapter/10.1007/978-3-030-87637-1_3
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3894636/
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8275637/
+4       https://healthtalk.org/biobanking/types-of-biobanking-sample
+5       https://www.sciencedirect.com/topics/nursing-and-health-professions/biobank
+6       https://www.mayo.edu/research/documents/introduction-pamphlet-16kb-pdf/DOC-10027365
+7       https://blog.labtag.com/the-history-and-function-of-biobanks/
+8       https://www.forbes.com/sites/cognitiveworld/2019/08/12/biobanking-is-changing-the-world/
+9       https://www.biocompare.com/Editorial-Articles/518242-National-Biobanks-Understanding-All-of-Us/
+10       https://www.mdpi.com/2673-6284/9/4/23
+
+
+
+Genetic Research: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.biocompare.com/Editorial-Articles/518242-National-Biobanks-Understanding-All-of-Us/
+2       https://www.mdpi.com/2673-6284/9/4/23
+3       https://www.nature.com/subjects/genetics-research
+4       https://research.virginia.edu/irb-hsr/genetic-research
+5       https://nigms.nih.gov/education/fact-sheets/Pages/genetics.aspx
+6       https://www.hopkinsmedicine.org/institute-genetic-medicine/research/
+7       https://www.genomeweb.com/genetic-research
+8       https://www.cdc.gov/genomics/gtesting/genetic_testing.htm
+9       https://www.cdc.gov/genomics/about/basics.htm
+
+
+
+Biobank security: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.mayo.edu/research/documents/biobank-privacy-pamphletpdf/DOC-10027679
+2       https://link.springer.com/article/10.1007/s11948-021-00305-w
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8213525/
+4       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8666836/
+5       https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-017-0494-5
+6       https://bmcmedethics.biomedcentral.com/articles/10.1186/s12910-022-00829-1
+7       https://www.sciencedirect.com/science/article/pii/S259005362100063X
+8       https://www.ukbiobank.ac.uk/explore-your-participation/basis-of-your-participation
+9       https://www.frontiersin.org/articles/10.3389/fgene.2022.719317/full
+10       https://www.sahealth.sa.gov.au/wps/wcm/connect/public+content/sa+health+internet/resources/guidance+document+for+human+research+biobanks+and+associated+data
+
+
+
+Hispanic representation in Genetic Research: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8554883/
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9722474/
+3       https://elifesciences.org/articles/56029
+4       https://www.pnas.org/doi/10.1073/pnas.0914618107
+5       https://www.fredhutch.org/en/news/center-news/2019/06/lack-diversity-genetic-research-problem.html
+6       https://sph.unc.edu/sph-news/studying-the-genetics-of-heart-attacks-and-strokes-in-hispanic-populations/
+7       https://www.frontiersin.org/articles/10.3389/fgene.2020.00120/full
+8       https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1002640
+9       https://www.nbcnews.com/news/latino/alzheimers-latinos-puerto-ricans-risk-genetic-research-rcna59670
+10       https://www.nature.com/articles/538161a
+
+
+
+Risks of DNA sampling: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.mayoclinic.org/tests-procedures/genetic-testing/about/pac-20384827#:~:text=Generally%20genetic%20tests%20have%20little,and%20financial%20risks%20as%20well.
+2       https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html
+3       https://medlineplus.gov/genetics/understanding/dtcgenetictesting/dtcrisksbenefits/
+4       https://medlineplus.gov/genetics/understanding/testing/riskslimitations/
+5       https://my.clevelandclinic.org/health/diagnostics/23065-dna-test--genetic-testing
+6       https://www.ncbi.nlm.nih.gov/books/NBK236044/
+7       https://www.comparitech.com/blog/information-security/dna-testing-kits-privacy-risks/
+8       https://www.health.harvard.edu/blog/tempted-to-have-genetic-testing-first-ask-why-202108172571
+9       https://theconversation.com/at-home-dna-tests-just-arent-that-reliable-and-the-risks-may-outweigh-the-benefits-194349
+10       https://internethealthreport.org/2019/23-reasons-not-to-reveal-your-dna/
+
+
+
+Genebanks: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.genebanks.org/genebanks/
+2       https://www.cgiar.org/initiative/genebanks/
+3       https://en.wikipedia.org/wiki/Gene_bank
+4       https://www.croptrust.org/news-events/news/what-is-a-genebank/
+5       https://www.frontiersin.org/articles/10.3389/fpls.2018.01794/full
+6       https://www.ncbi.nlm.nih.gov/genbank/
+7       https://www.nature.com/articles/s41588-019-0443-6
+8       https://alliancebioversityciat.org/services/genebanks
+9       https://www.fao.org/agriculture/crops/thematic-sitemap/theme/seeds-pgr/gbs/en/
+
+
+
+DNA sample storage: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.azenta.com/blog/how-are-genomic-dna-samples-collected-stored#:~:text=DNA%20material%20used%20in%20a,nucleic%20acids%20in%20the%20DNA.
+2       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4461180/
+3       https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/handling-dna/storage-of-dna
+4       https://www.qiagen.com/us/knowledge-and-support/knowledge-hub/bench-guide/dna/handling-dna/sample-storage-prior-to-extraction-of-genomic-dna
+5       https://www.nature.com/articles/s41467-021-21587-5
+6       https://www.colorado.edu/ecenter/sites/default/files/attached-files/seracare_stability_of_genomic_dna_at_various_storage_conditions_isber2009.pdf
+7       https://www.news-medical.net/life-sciences/How-to-Store-DNA.aspx
+8       https://www.securigene.com/dna-banking-preservation/faq/
+9       https://www.nytimes.com/2019/06/12/smarter-living/how-to-protect-your-dna-data.html
+10       https://www.mlo-online.com/molecular/dna-rna/article/13017097/dry-storage-methods-for-dna-samples
+
+
+
+Who would have access to my DNA?: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.axios.com/2019/02/25/dna-test-results-privacy-genetic-data-sharing#:~:text=Genetic%20testing%20companies%20that%20trace,drug%20makers%20and%20app%20developers.
+2       https://www.cnbc.com/2018/06/16/5-biggest-risks-of-sharing-dna-with-consumer-genetic-testing-companies.html
+3       https://www.ajc.com/news/national/can-police-legally-obtain-your-dna-from-23andme-ancestry/8eZ24WN7VisoQiHAFbcmjP/
+4       https://www.americanbar.org/groups/judicial/publications/judges_journal/2020/spring/if-you-think-your-dna-anonymous-think-again/
+5       https://www.theguardian.com/commentisfree/2019/nov/09/when-governments-have-access-to-dna-databases-youre-right-to-be-scared
+6       https://www.ancestry.com/c/legal/privacyforancestrydnatesting
+7       https://www.wired.com/2015/01/who-should-have-access-to-your-dna/
+8       https://legaljournal.princeton.edu/its-not-just-me-its-also-you-how-shared-dna-complicates-consent/
+9       https://www.nbcnews.com/health/health-news/what-you-re-giving-away-those-home-dna-tests-n824776
+10       https://www.future-science.com/doi/10.2144/btn-2021-0059
+
+
+
+What is a biobank?: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.mayo.edu/research/documents/introduction-pamphlet-16kb-pdf/DOC-10027365
+2       https://healthtalk.org/biobanking/what-is-biobanking-and-why-is-it-important
+3       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8275637/
+4       https://www.sciencedirect.com/topics/nursing-and-health-professions/biobank
+5       https://en.wikipedia.org/wiki/Biobank
+6       https://www.massgeneralbrigham.org/en/about/newsroom/articles/what-is-biobanking
+7       https://translational-medicine.biomedcentral.com/articles/10.1186/s12967-019-1922-3
+8       https://www.rainn.org/articles/importance-dna-sexual-assault-cases
+9       https://www.ojp.gov/pdffiles1/nij/bc000657.pdf
+10       https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank
+
+
+
+Why would somebody need my DNA?: 
+__________________________________________________________
+Rank:   URL:
+1       https://www.massgeneralbrigham.org/en/about/newsroom/articles/what-is-biobanking
+2       https://communitylaw.org.nz/community-law-manual/chapter-31-police-powers/dna-samples-when-you-have-to-give-a-sample/
+3       https://www.rainn.org/articles/importance-dna-sexual-assault-cases
+4       https://www.ojp.gov/pdffiles1/nij/bc000657.pdf
+5       https://www.ukbiobank.ac.uk/learn-more-about-uk-biobank
+6       https://www.aclu.org/news/privacy-technology/police-want-your-dna-prove-youre-innocent-do-you
+7       https://www.justice.gov/archives/ag/advancing-justice-through-dna-technology-using-dna-solve-crimes
+8       https://www.americanbar.org/groups/judicial/publications/judges_journal/2020/spring/if-you-think-your-dna-anonymous-think-again/
+9       https://my.clevelandclinic.org/health/diagnostics/23065-dna-test--genetic-testing
+10       https://www.ncjrs.gov/nij/DNAbro/evi.html
+
+
+
+pharmacogenetic testing: 
+__________________________________________________________
+Rank:   URL:
+1       https://medlineplus.gov/lab-tests/pharmacogenetic-tests/#:~:text=Pharmacogenetic%20testing%20provides%20information%20about,a%20type%20of%20precision%20medicine.
+2       https://www.ncjrs.gov/nij/DNAbro/evi.html
+3       https://www.cdc.gov/genomics/disease/pharma.htm
+4       https://med.stanford.edu/cvi/mission/news_center/articles_announcements/2021/the-problem-with-pharmacogenetic-testing.html
+5       https://genomind.com/solutions/pharmacogenetic-testing/
+6       https://www.aacap.org/AACAP/Families_and_Youth/Facts_for_Families/FFF-Guide/Pharmacogenetic_Testing-128.aspx
+7       https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3765014/
+8       https://www.questdiagnostics.com/healthcare-professionals/about-our-tests/genetics/pharmacogenomics
+9       https://kidshealth.org/en/parents/pharmacogenomics.html
+10       https://www.23andme.com/test-info/pharmacogenetics/

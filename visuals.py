@@ -41,12 +41,12 @@ def keyword_rankings(conn, cur):
         pop_scores_dict[piece[0]] = (piece[1]/total) * 100
     labels = list(pop_scores_dict.keys())
     sizes = list(pop_scores_dict.values())
-    patches, texts = plt.pie(sizes, shadow=True, startangle=90)
+    patches, texts = plt.pie(sizes, startangle=90)
     plt.legend(patches, labels, loc="best")
     plt.axis('equal')
     plt.tight_layout()
     plt.show()
-    #plt.pie([x*100 for x in pop_scores_dict.values()],labels=[x for x in pop_scores_dict.keys()],autopct='%0.01f') 
+    plt.pie([x*100 for x in pop_scores_dict.values()],labels=[x for x in pop_scores_dict.keys()],autopct='%0.01f') 
     return 0
 
 def competitor_site_urls(conn, cur):

@@ -40,7 +40,7 @@ def creat_table_keywords(conn, cur):
     )
     conn.commit()
     
-    keywords = ["Miami biobank", "Biobank analyzation process", "Importance of biobanks", "Types of Biobanks", "Genetic Research", "Biobank security", "Hispanic representation in Genetic Research", "Risks of DNA sampling", "Genebanks", "DNA sample storage"]
+    keywords = ["Miami biobank", "Biobank analyzation process", "Importance of biobanks", "Types of Biobanks", "Genetic Research", "Biobank security", "Hispanic representation in Genetic Research", "Risks of DNA sampling", "Genebanks", "DNA sample storage", "Who would have access to my DNA?", "What is a biobank?", "Why would somebody need my DNA?", "pharmacogenetic testing"]
     count  = 1
     for i in keywords:
         val2 = cur.execute(
